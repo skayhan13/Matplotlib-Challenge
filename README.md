@@ -40,7 +40,7 @@ Your tasks are to do the following:
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
-* Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+* Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the bottom of notebook.
 
 Here are some final considerations:
 
@@ -56,5 +56,5 @@ Here are some final considerations:
 
 * There appears to be a positive correlation between a mouse's weight and the tumor volume. This correlation can prove that the two entities appear to be directly proportional. I use the word "appear" as opposed to "is" because there are a few points that do not lie on the linear regression line, and the r-squared value is 0.70. The closer the r-squared value is to 1, then the better fit the regression line is said to be. This idea of weight and tumor volume do intuitively make sense, and I was expecting to see this correlation before starting my data anaylsis.
 
-* Finally, the two most tested drugs in this trial were: Capomulin and Ramicane. This helps to explain why these two drug regimens experienced nearly identical mean and median values, and the lowest standard deviations. They had the most occurences of being tested. A conclusion that can be drawn from this fact that could be studied further is whether these two drug regimens had more funding in comparison to the other regimens.
+* Finally, the two most tested drugs in this trial were: Capomulin and Ramicane. This helps to explain why these two drug regimens experienced nearly identical mean and median values, and the lowest standard deviations. They had the most occurences of being tested. A conclusion that can be drawn from this fact and studied further is whether these two drug regimens had more funding in comparison to the other regimens.  Data on funding would need to be provided to us for this analysis.
 
